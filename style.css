@@ -1,0 +1,19 @@
+#navigation {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+	a:link,a:visited {
+	display:block;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color:#FF9933;
+	width:180px;
+	text-align:center;
+	padding:8px;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+	a:hover,a:active {
+	background-color:#FF8C00;
+}
